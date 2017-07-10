@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 689307a8539a44177a21804a26d61ff9
+timeCreated: 1499706716
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - flatShadingMaterial: {fileID: 2100000, guid: 2c862269db3db495798f4be846bde997,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
